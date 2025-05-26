@@ -1,5 +1,4 @@
 # testeappium
-# testeappium
 Framework de Automação Mobile com Appium
 📱 Visão Geral
 Framework de automação de testes mobile desenvolvido em Java, utilizando Appium para testes em aplicações Android. O framework implementa o padrão Page Object Model (POM) e integra Cucumber para BDD com relatórios avançados via Allure.
